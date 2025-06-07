@@ -1,7 +1,5 @@
 <h1>Hello and Welcome👋, I’m Dieudone Kolony (aka Don)</h1> <br/>
 
-<a href="www.google.com"><img  />
-
 <h2>I'm a Developer & Engineer</h2>
 
 <h3>About Me</h3>
