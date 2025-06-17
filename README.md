@@ -6,7 +6,7 @@
 - 👀 I’m interested in creative frontend projects, web interactions, and human-centered design
 - 🌱 I’m currently learning React deeper, sharpening my JavaScript, and exploring component libraries like Tailwind and Framer Motion.
 - 💞️ I’m looking to collaborate on frontend projects, personal websites, portfolio builds, or anything that lets creativity and code meet
-- 📫 How to reach me donkolony@gmail.com or https://www.linkedin.com/in/d-kolony/
+- 📫 How to reach me Dieudonne.Kolony@outlook.com or https://www.linkedin.com/in/d-kolony/
 - ⚡ Fun fact: I love reverse-engineering UIs I see online just to rebuild them my way & still sketch layout ideas like I’m drafting blueprints
 
 <!---
