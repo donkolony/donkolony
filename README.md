@@ -1,7 +1,7 @@
 <h1>Hello and Welcome👋, I’m Dieudone Kolony (aka Don)</h1> <br/>
 <h2>I'm a Developer & Engineer</h2>
 <h3>💡 The Dev Behind the Code</h3>
-<p>Hi, I’m Dieudonne Kolony, a frontend web developer with a civil engineering brain and a butterfly spirit. I’m constantly evolving, learning, and building meaningful things for the web. My journey began with curiosity in 2023 and quickly turned into a passion for crafting clean, responsive digital experiences.
+<p>Hi, I’m Dieudonne Kolony, a frontend developer with a civil engineering brain and a butterfly spirit. I’m constantly evolving, learning, and building meaningful things for the web. My journey began with curiosity in 2023 and quickly turned into a passion for crafting clean, responsive digital experiences.
 
 I started out drafting roads and structures, and now I engineer elegant user interfaces with React, JavaScript, HTML, and CSS. Through freelancing at Ouicestnous, I’ve gained hands-on experience building real-world web applications and collaborating with clients to bring their visions to life.
 
