@@ -4,7 +4,7 @@ Hi 👋 I'm Dieudonne Kolony
 Software Developer and Civil Engineer
 -------------------------------------
 
-* 🌍  I'm based in South Africa
+* 🌍  I'm based in Cape Town, South Africa
 * 💻 See my portfolio at https://kolony.vercel.app/
 * ✉️  You can contact me at [dieudonne.kolony@outlook.com](mailto:dieudonne.kolony@outlook.com)
 
