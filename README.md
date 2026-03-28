@@ -10,7 +10,7 @@ Software Developer and Civil Engineer
 
 
 ### The Dev Behind the Code
-lorem ipsum
+Software developer bridging the gap between beautiful user interfaces and robust logic. My journey started with a fascination for structure in 2023, and today I approach every project like a metamorphosis. Whether I'm collaborating with clients at Ouicestnous, designing responsive layouts, or tinkering with AI-driven backends, my goal is to build things that are both highly functional and visually striking. 
 
 <hr>
 
