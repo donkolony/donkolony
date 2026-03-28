@@ -44,9 +44,9 @@ lorem ipsum
 <hr>
 
 ### When I'm Not Coding
-* 🌍  Lorem ipsum
-* 🌍  Lorem ipsum
-* 🌍  Lorem ipsum
+* 🌍  **Playing Football:** Whether I'm on the pitch or analyzing European soccer databases for SQL practice, I love the beautiful game.
+* 🌍  **Running:** Pounding the pavement to clear my head and build endurance. *Current milestone:* Chasing a sub-20-minute 5k!
+* 🌍  **Design & Architecture:** Sketching out wireframes and drawing inspiration from the structured world of civil engineering.
 
 <hr>
 
