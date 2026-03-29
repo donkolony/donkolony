@@ -10,7 +10,7 @@ Software Developer and Civil Engineer
 
 
 ### The Dev Behind the Code
-Software developer bridging the gap between beautiful user interfaces and robust logic. My journey started with a fascination for structure in 2023, and today I approach every project like a metamorphosis. Whether I'm collaborating with clients at Ouicestnous, designing responsive layouts, or tinkering with AI-driven backends, my goal is to build things that are both highly functional and visually striking. 
+Software developer bridging the gap between beautiful user interfaces and robust logic. My journey began in 2020 with a drive to understand structure and system design, and today I approach every project like a metamorphosis. Whether I'm designing responsive front-end layouts, building out intelligent, AI-driven backend systems, or structuring complex data, my goal is to engineer solutions that are both highly functional and visually striking. I'm actively building and expanding my projects, always looking for the next problem to solve.
 
 <hr>
 
