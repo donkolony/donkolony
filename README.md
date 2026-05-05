@@ -37,9 +37,9 @@ Software developer bridging the gap between beautiful user interfaces and robust
 </p>
 
 ### Cloud
-<p align="left">
+<div align="left">
 <a href="https://cloud.google.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" style="margin-right:10px;" /></a><a href="https://portal.azure.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" height="36" style="margin-right:10px;" /></a>
-</p>
+</div>
 
 
 <hr>
