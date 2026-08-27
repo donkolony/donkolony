@@ -1,8 +1,8 @@
 Hi 👋 I'm Dieudonne Kolony
 =========================================================================================================================================
 
-Aspiring Data Engineer | Backend Developer | Civil Engineer
------------------------------------------------------------
+Backend Developer | Data Engineer | Civil Engineer
+--------------------------------------------------
 
 * 🌍  I'm based in Cape Town, South Africa
 * 💻 See my portfolio at https://kolony.vercel.app/
