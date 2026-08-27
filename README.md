@@ -46,7 +46,7 @@ Software developer bridging the gap between beautiful user interfaces and robust
 
 ### When I'm Not Coding
 * **Playing Football:** Whether I'm on the pitch or analyzing European soccer databases for SQL practice, I love the beautiful game.
-* **Running:** Pounding the pavement to clear my head and build endurance. *Current milestone:* Chasing a sub-20-minute 5k!
+* **Running:** Pounding the pavement to clear my head and build endurance. *Current milestone:* Chasing a sub-20-minute 5k! _(current PB: 21:26)_
 
 <hr>
 
